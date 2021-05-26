@@ -15,4 +15,6 @@ npm test
     <li>Mocha</li>
 </ul>
 
-<h2>Licença MIT</h2>
+<h2>Licença:</h2>
+<img alt="Licença MIT" src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" />
+
