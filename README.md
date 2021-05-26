@@ -1,5 +1,9 @@
 <h1>Teste Unitário com Mocha e Chai</h1>
 
+```bash
+npm install
+npm test
+```
 
 <h2>Desenvolvido com</h2>
 <ul>
