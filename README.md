@@ -1,7 +1,10 @@
 <h1>Teste Unitário com Mocha e Chai</h1>
 
 ```bash
+// instalar pacotes
 npm install
+
+// rodar os testes
 npm test
 ```
 
