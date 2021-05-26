@@ -6,6 +6,6 @@
     <li>Javascript</li>
     <li>Chai</li>
     <li>Mocha</li>
-<ul>
+</ul>
 
 <h2>Licença MIT</h2>
