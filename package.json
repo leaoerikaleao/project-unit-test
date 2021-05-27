@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec **/*.test.js"
+    "test": "./node_modules/.bin/mocha --reporter spec **/*.test.js",
+    "coverage": "./node_modules/.bin/istanbul cover _mocha -- --reporter spec **/*.test.js"
   },
   "author": "Erika Leão",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.3.4",
+    "istanbul": "^0.4.5",
     "mocha": "^8.4.0",
     "sinon": "^2.4.1"
   }
