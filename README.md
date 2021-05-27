@@ -1,4 +1,6 @@
-<h1>Teste Unitário com Mocha e Chai</h1>
+<h1>Teste Unitário</h1>
+
+<h2>Mocha, Chai, Sinon Stubs e Istanbul</h2>
 
 ```bash
 // instalar pacotes
@@ -6,6 +8,9 @@ npm install
 
 // rodar os testes
 npm test
+
+// verificar cobertura de código
+npm coverage
 ```
 
 <h2>Desenvolvido com</h2>
@@ -13,6 +18,8 @@ npm test
     <li>Javascript</li>
     <li>Chai</li>
     <li>Mocha</li>
+    <li>Sinon</li>
+    <li>Istabul</li>
 </ul>
 
 <h2>Licença:</h2>
